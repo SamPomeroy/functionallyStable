@@ -3,27 +3,23 @@
 function add(a, b) {
     console.log(a + b)
 }
-
 function subtract(a, b) {
     console.log(a -b)
 }
-
 function multiply(a, b) {
     console.log(a * b)
 }
-
 function divide(a, b) {
     console.log(a / b)
 }
 function square(a) {
     console.log(a * a)
 }
-function squareRoot(a) {
-   console.log( a**(0.5))
+function squareRoot(a){
+    console.log(Math.sqrt(a))
 }
 function concatenate(a, b) {
     console.log(a + b)
-
 }
 
 /******************************OUR CODE BELOW******************************** */
